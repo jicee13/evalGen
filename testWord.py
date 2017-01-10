@@ -2,7 +2,7 @@ from docx import Document
 from docx.shared import Pt
 
 reviewClass = 'KG. 2A'
-students = ['jayce','tits','barad']
+students = ['jayce','barad']
 
 keyPhrases = [
 ['Physical Development:','Fine Motor Skills:','Gross Motor Skills:'],
